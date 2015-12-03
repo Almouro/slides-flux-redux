@@ -1,0 +1,20 @@
+var store = {
+  todos: [{
+    id: 0,
+    text: 'My todo',
+    completed: false,
+  }, {
+    id: 1,
+    text: 'Another todo',
+    completed: true,
+  }, {
+    id: 2,
+    text: 'YOLOOOOOOO',
+    completed: false,
+  }],
+
+  currentUser: {
+    id: 2,
+    name: 'Youpi'
+  }
+};
